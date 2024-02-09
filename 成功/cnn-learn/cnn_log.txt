@@ -1,0 +1,25 @@
+[ Train | 001/020 ] loss = 2.27340, acc = 0.18561
+[ Valid | 001/020 ] loss = 2.20112, acc = 0.24548 -> best
+[ Train | 002/020 ] loss = 2.15494, acc = 0.24045
+[ Valid | 002/020 ] loss = 2.00789, acc = 0.29848 -> best
+[ Train | 003/020 ] loss = 2.08164, acc = 0.26851
+[ Valid | 003/020 ] loss = 1.85497, acc = 0.34202 -> best
+[ Train | 004/020 ] loss = 2.01505, acc = 0.29319
+[ Valid | 004/020 ] loss = 1.93268, acc = 0.32016
+[ Train | 005/020 ] loss = 1.97730, acc = 0.29966
+[ Valid | 005/020 ] loss = 1.79308, acc = 0.38508 -> best
+[ Train | 006/020 ] loss = 1.90789, acc = 0.33549
+[ Valid | 006/020 ] loss = 1.76856, acc = 0.37802
+[ Train | 007/020 ] loss = 1.85840, acc = 0.35042
+[ Valid | 007/020 ] loss = 1.65252, acc = 0.42456 -> best
+[ Train | 008/020 ] loss = 1.81805, acc = 0.37838
+[ Valid | 008/020 ] loss = 1.85521, acc = 0.37197
+[ Train | 009/020 ] loss = 1.74927, acc = 0.39162
+[ Valid | 009/020 ] loss = 1.54338, acc = 0.46207 -> best
+[ Train | 001/020 ] loss = 2.40548, acc = 0.15167
+[ Valid | 001/020 ] loss = 2.27728, acc = 0.16144 -> best
+[ Train | 002/020 ] loss = 2.29462, acc = 0.15416
+[ Valid | 002/020 ] loss = 2.26181, acc = 0.19411 -> best
+[ Train | 003/020 ] loss = 2.30212, acc = 0.16580
+[ Valid | 003/020 ] loss = 2.24951, acc = 0.15995
+[ Train | 004/020 ] loss = 2.27593, acc = 0.16929
