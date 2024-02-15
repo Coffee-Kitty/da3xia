@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 # 从文件中读取数据
-with open("model/log.txt", "r", encoding='utf-8') as file:
+with open("log/log.txt", "r", encoding='utf-8') as file:
     lines = file.readlines()
 
 loss_values = []
@@ -24,6 +24,6 @@ plt.title('Loss and Entropy Over Batches')
 plt.legend()
 plt.grid(True)
 
-plt.savefig('model/log.png')
+plt.savefig('log/log.png')
 
 plt.show()
